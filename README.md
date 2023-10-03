@@ -97,9 +97,6 @@ The overall accuracy of the model on the test data is approximately 93%. We prov
 
 Contributions are welcome! Please feel free to open issues or pull requests to improve this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
