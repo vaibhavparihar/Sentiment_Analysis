@@ -1,7 +1,5 @@
 # Sentiment Analysis on Amazon Fine Food Reviews
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Overview
 
 This repository contains the code for building a sentiment analysis model on the Amazon Fine Food Reviews dataset using logistic regression. The model predicts whether a review is positive or negative based on its content.
@@ -18,7 +16,6 @@ This repository contains the code for building a sentiment analysis model on the
 - [Testing and Evaluation](#testing-and-evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
